@@ -9,7 +9,7 @@ It includes attendance tracking, marks management, and student/teacher login pan
 
 - 🎓 **Student Dashboard**
   - Secure login system  
-  - View marks and attendance  
+  - View marks and attendance 
   - Edit personal profile  
 
 - 👩‍🏫 **Teacher Dashboard**
