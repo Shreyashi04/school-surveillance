@@ -32,7 +32,7 @@ It includes attendance tracking, marks management, and student/teacher login pan
 - **Libraries:** `Pillow`, `ttk`, `subprocess`, `os`
 
 ---
-"""
+```
 school_system/
 ├── main.py
 ├── database/
@@ -48,7 +48,7 @@ school_system/
 │ └── theme.py
 └── assets/
 └── logo.png
-"""
+```
 
 
 
@@ -59,5 +59,5 @@ school_system/
 🧾 Generate PDF reports for attendance & marks
 
 ✉️ Integrate email notifications
-## 📂 Folder Structure
+
 
